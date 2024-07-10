@@ -73,12 +73,12 @@ body{
     border: 2px solid black;
     border-radius: 40px;
     font-size: 16px;
-    color: antiquewhite;
+    color: black;
     padding: 20px 40px 20px 20px;
 
 }
 .user-details input::placeholder{
-    color: antiquewhite;
+    color: black;
 }
 .user-details i{
     position: absolute;
